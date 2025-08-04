@@ -13,7 +13,7 @@ description = "Smith Barlow's About Page"
 __Homelab__\
 *August 2025*
 - Deployed and configured OPNsense as the main router and firewall, setting up VLANs, appropriate subnets, DHCP, and firewall rules to segment and secure homelab traffic.
-- Used Proxmox to host virtual machines for labs and services, learning virtualization, resource allocation, and snapshot management—accomplished utilizing LXC containers and KVM virtual machines.
+- Utilized Proxmox to host virtual machines for labs and services, learning virtualization, resource allocation, and snapshot management—accomplished utilizing LXC containers and KVM virtual machines.
 - Created a SOC lab environment using Kali Linux for vulnerability assessment, a Windows target for exploitation, and the Wazuh stack for real-time detection and prevention.
 - Deployed a hardened VPS with a Wireguard VPN tunnel to securely expose internal services to the internet without port forwarding or local ports.
 - Hardened the VPS with SSH public key authentication, DNS hardening, strict iptables rules, Nginx security headers and rate limiting, and web firewall protections.
