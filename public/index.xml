@@ -6,15 +6,15 @@
     <description>Recent content on smithbarlow.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <managingEditor>mason@tuckett.xyz (Mason Tuckett)</managingEditor>
-    <webMaster>mason@tuckett.xyz (Mason Tuckett)</webMaster>
+    <managingEditor>smithbarlow28@proton.me (Smith Barlow)</managingEditor>
+    <webMaster>smithbarlow28@proton.me (Smith Barlow)</webMaster>
     <copyright>Copyright ©2025 Smith Barlow All Rights Reserved</copyright>
     <lastBuildDate>Sun, 03 Aug 2025 00:34:17 -0700</lastBuildDate>
     <atom:link href="https://smithbarlow.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://smithbarlow.xyz/about/</link>
-      <pubDate>Sun, 03 Aug 2025 00:38:44 -0700</pubDate><author>mason@tuckett.xyz (Mason Tuckett)</author>
+      <pubDate>Sun, 03 Aug 2025 00:38:44 -0700</pubDate><author>smithbarlow28@proton.me (Smith Barlow)</author>
       <guid>https://smithbarlow.xyz/about/</guid>
       <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Homelab&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;August 2025&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deployed and configured OPNsense as the main router and firewall, setting up VLANs, appropriate subnets, DHCP, and firewall rules to segment and secure homelab traffic.&lt;/li&gt;&#xA;&lt;li&gt;Utilized Proxmox to host virtual machines for labs and services, learning virtualization, resource allocation, and snapshot management—accomplished utilizing LXC containers and KVM virtual machines.&lt;/li&gt;&#xA;&lt;li&gt;Created a SOC lab environment using Kali Linux for vulnerability assessment, a Windows target for exploitation, and the Wazuh stack for real-time detection and prevention.&lt;/li&gt;&#xA;&lt;li&gt;Deployed a hardened VPS with a Wireguard VPN tunnel to securely expose internal services to the internet without port forwarding or local ports.&lt;/li&gt;&#xA;&lt;li&gt;Hardened the VPS with SSH public key authentication, DNS hardening, strict iptables rules, Nginx security headers and rate limiting, and web firewall protections.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;events&#34;&gt;Events&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Summer Cyber Tech Track&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;&lt;em&gt;Ken Garff Esports&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;July 2025&lt;/em&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h1 id="about-me">About Me</h1>
@@ -50,7 +50,7 @@ August, 2025 - May, 2028</p></blockquote>
     <item>
       <title>Contact</title>
       <link>https://smithbarlow.xyz/contact/</link>
-      <pubDate>Sun, 03 Aug 2025 00:38:44 -0700</pubDate><author>mason@tuckett.xyz (Mason Tuckett)</author>
+      <pubDate>Sun, 03 Aug 2025 00:38:44 -0700</pubDate><author>smithbarlow28@proton.me (Smith Barlow)</author>
       <guid>https://smithbarlow.xyz/contact/</guid>
       <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;Socials: &lt;a href=&#34;https://linkedin.com/in/smith-barlow&#34;&gt;LinkedIn&lt;/a&gt;, &lt;a href=&#34;https://github.com/smithbarlow&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;For professional opportunities, feel free to contact me via email: &lt;a href=&#34;mailto:smithbarlow28@proton.me&#34;&gt;smithbarlow28@proton.me&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;https://github.com/smithbarlow/smithbarlow.gpg&#xA;&#xA;curl -sL https://smithbarlow.xyz/smithbarlow.gpg | gpg --import&#xA;Fingerprint: &lt;/code&gt;&lt;/pre&gt;</description>
       <content:encoded><![CDATA[<h1 id="contact">Contact</h1>
@@ -69,7 +69,7 @@ Fingerprint: </code></pre>]]></content:encoded>
     <item>
       <title>WPA2 Vulnerability Assessment</title>
       <link>https://smithbarlow.xyz/posts/wpa2-vulnerability-assessment/</link>
-      <pubDate>Sun, 03 Aug 2025 16:36:37 -0600</pubDate><author>mason@tuckett.xyz (Mason Tuckett)</author>
+      <pubDate>Sun, 03 Aug 2025 16:36:37 -0600</pubDate><author>smithbarlow28@proton.me (Smith Barlow)</author>
       <guid>https://smithbarlow.xyz/posts/wpa2-vulnerability-assessment/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
