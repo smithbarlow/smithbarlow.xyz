@@ -52,7 +52,7 @@ August, 2025 - May, 2028</p></blockquote>
       <link>https://smithbarlow.xyz/contact/</link>
       <pubDate>Sun, 03 Aug 2025 00:38:44 -0700</pubDate><author>smithbarlow28@proton.me (Smith Barlow)</author>
       <guid>https://smithbarlow.xyz/contact/</guid>
-      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;Socials: &lt;a href=&#34;https://linkedin.com/in/smith-barlow&#34;&gt;LinkedIn&lt;/a&gt;, &lt;a href=&#34;https://github.com/smithbarlow&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;For professional opportunities, feel free to contact me via email: &lt;a href=&#34;mailto:smithbarlow28@proton.me&#34;&gt;smithbarlow28@proton.me&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;https://github.com/smithbarlow/smithbarlow.gpg&#xA;&#xA;curl -sL https://smithbarlow.xyz/smithbarlow.gpg | gpg --import&#xA;Fingerprint: &lt;/code&gt;&lt;/pre&gt;</description>
+      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;Socials: &lt;a href=&#34;https://linkedin.com/in/smith-barlow&#34;&gt;LinkedIn&lt;/a&gt;, &lt;a href=&#34;https://github.com/smithbarlow&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;For professional opportunities, feel free to contact me via email: &lt;a href=&#34;mailto:smithbarlow28@proton.me&#34;&gt;smithbarlow28@proton.me&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;https://github.com/smithbarlow/smithbarlow.gpg&#xA;&#xA;curl -sL https://smithbarlow.xyz/smithbarlow.gpg | gpg --import&#xA;Fingerprint: C6A4 8319 50BF 042C 8AB2  EDD7 43D0 FB42 FE58 2CE5&#xA;-----BEGIN PGP PUBLIC KEY BLOCK-----&#xA;&#xA;mDMEaJFfOxYJKwYBBAHaRw8BAQdAMwj8uow25dVU7RVxsaTAYhcEj1AQGZpOvSL/&#xA;xukKNTe0JlNtaXRoIEJhcmxvdyA8c21pdGhiYXJsb3cyOEBwcm90b24ubWU+iJME&#xA;ExYKADsWIQTGpIMZUL8ELIqy7ddD0PtC/lgs5QUCaJFfOwIbAwULCQgHAgIiAgYV&#xA;CgkICwIEFgIDAQIeBwIXgAAKCRBD0PtC/lgs5SuBAP4opMArmseMtJlf/NDr9Ul7&#xA;Rk8sFYaykrWU9SLV8K+iwAEA5FukDoK2+6bhYO0JS05BudqlIleUlOYWf7CVanST&#xA;bQO4OARokV87EgorBgEEAZdVAQUBAQdA7g0e09zmF8MQZ4CpnZJPwUQ0gUfNdztZ&#xA;n/v8zTwPEncDAQgHiHgEGBYKACAWIQTGpIMZUL8ELIqy7ddD0PtC/lgs5QUCaJFf&#xA;OwIbDAAKCRBD0PtC/lgs5VQlAQD3DNyr8rBgADrr5WzTPZKdV54rTN1CI0DzcGCL&#xA;oq5xkQD/UXQSGULICp3gmHmCzMmfnrANNlqoilS/8SeygLhICgU=&#xA;=li+y&#xA;-----END PGP PUBLIC KEY BLOCK-----&lt;/code&gt;&lt;/pre&gt;</description>
       <content:encoded><![CDATA[<h1 id="contact">Contact</h1>
 <p>Socials: <a href="https://linkedin.com/in/smith-barlow">LinkedIn</a>, <a href="https://github.com/smithbarlow">GitHub</a></p>
 <p>For professional opportunities, feel free to contact me via email: <a href="mailto:smithbarlow28@proton.me">smithbarlow28@proton.me</a></p>
@@ -64,7 +64,20 @@ August, 2025 - May, 2028</p></blockquote>
 <pre tabindex="0"><code>https://github.com/smithbarlow/smithbarlow.gpg
 
 curl -sL https://smithbarlow.xyz/smithbarlow.gpg | gpg --import
-Fingerprint: </code></pre>]]></content:encoded>
+Fingerprint: C6A4 8319 50BF 042C 8AB2  EDD7 43D0 FB42 FE58 2CE5
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEaJFfOxYJKwYBBAHaRw8BAQdAMwj8uow25dVU7RVxsaTAYhcEj1AQGZpOvSL/
+xukKNTe0JlNtaXRoIEJhcmxvdyA8c21pdGhiYXJsb3cyOEBwcm90b24ubWU+iJME
+ExYKADsWIQTGpIMZUL8ELIqy7ddD0PtC/lgs5QUCaJFfOwIbAwULCQgHAgIiAgYV
+CgkICwIEFgIDAQIeBwIXgAAKCRBD0PtC/lgs5SuBAP4opMArmseMtJlf/NDr9Ul7
+Rk8sFYaykrWU9SLV8K+iwAEA5FukDoK2+6bhYO0JS05BudqlIleUlOYWf7CVanST
+bQO4OARokV87EgorBgEEAZdVAQUBAQdA7g0e09zmF8MQZ4CpnZJPwUQ0gUfNdztZ
+n/v8zTwPEncDAQgHiHgEGBYKACAWIQTGpIMZUL8ELIqy7ddD0PtC/lgs5QUCaJFf
+OwIbDAAKCRBD0PtC/lgs5VQlAQD3DNyr8rBgADrr5WzTPZKdV54rTN1CI0DzcGCL
+oq5xkQD/UXQSGULICp3gmHmCzMmfnrANNlqoilS/8SeygLhICgU=
+=li+y
+-----END PGP PUBLIC KEY BLOCK-----</code></pre>]]></content:encoded>
     </item>
     <item>
       <title>WPA2 Vulnerability Assessment</title>
