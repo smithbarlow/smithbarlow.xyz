@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+
+### Beginning of Statement ### 
+
+Subject: Tor Mirror Authenticity Statement
+Date: 2025-08-14
+
+Operator: Smith Barlow smithbarlow28@proton.me
+
+Primary GPG fingerprint: C6A4 8319 50BF 042C 8AB2  EDD7 43D0 FB42 FE58 2CE5
+
+Public key URL (clearnet): https://smithbarlow.xyz/smithbarlow.gpg
+
+Public key URL (onion): http://v55dqkmukq7hl6hty5sn6wlbcfn6ldadxt3h4wuynb2dyonpu5hrcmyd.onion/smithbarlow.gpg
+
+GitHub key mirror: https://github.com/smithbarlow/smithbarlow.gpg
+
+
+Clearnet site(s) covered by this statement:
+
+https://smithbarlow.xyz
+
+Tor mirror(s) covered by this statement:
+
+http://v55dqkmukq7hl6hty5sn6wlbcfn6ldadxt3h4wuynb2dyonpu5hrcmyd.onion
+
+! Authenticity Statement !
+I, the undersigned, assert that the Tor onion address listed above is an official mirror of the clearnet site listed above and is operated by me. Any future change of onion address or ownership will be announced in a new statement signed by the same primary key (or its designated successor key) and published on both clearnet and onion sites.
+
+### End of Statement ###
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQTGpIMZUL8ELIqy7ddD0PtC/lgs5QUCaJ5UVgAKCRBD0PtC/lgs
+5ZM4AP9E5X1x4cMLgIOh/MHwP6hHeaxLSBM1m+QgdyBhcwFG/AEA7fFGQDWiG0y4
+QRpl5vMvAMiNModQUA0oNYgfUhNhDgw=
+=fBN+
+-----END PGP SIGNATURE-----
