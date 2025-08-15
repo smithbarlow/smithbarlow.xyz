@@ -15,8 +15,23 @@ __Homelab__\
 - Deployed and configured OPNsense as the main router and firewall, setting up VLANs, appropriate subnets, DHCP, and firewall rules to segment and secure homelab traffic.
 - Utilized Proxmox to host virtual machines for labs and services, learning virtualization, resource allocation, and snapshot management—accomplished utilizing LXC containers and KVM virtual machines.
 - Created a SOC lab environment using Kali Linux for vulnerability assessment, a Windows target for exploitation, and the Wazuh stack for real-time detection and prevention.
-- Deployed a hardened VPS with a Wireguard VPN tunnel to securely expose internal services to the internet without port forwarding or local ports.
-- Hardened the VPS with SSH public key authentication, DNS hardening, strict iptables rules, Nginx security headers and rate limiting, and web firewall protections.
+- Configured OPNsense firewalling with strict baselines—ensure intervlan traffic is strict and within scope.
+- Utilized Wireguard to secure sensitive traffic from self-hosted services to VPS proxy—terminated with TLS 1.2/1.3 certificates.
+
+__VPS__\
+*August 2025*
+- Deployed a strict firewall policy: default-deny incoming, a strict UFW ruleset only allowing essential ports (non-standard IP-bound SSH port), with Tor service bound to localhost and isolated from public interfaces.
+- Obtained an [A+ SSL Labs Score](https://www.ssllabs.com/ssltest/analyze.html?d=smithbarlow.xyz), configured Let's Encrypt TLS (TLS 1.2/1.3) with strong AEAD ciphers, implemented HSTS preload, instituted DNSSEC to prevent MITM attacks, and restrictive CAA policies to prevent rogue issuance.
+- Secured Nginx with tight content security policies, method restrictions (GET/HEAD only), rate-limiting, appropriate header limits, and privacy-respecting security headers.
+- Deployed kernel-level security via extensive sysctl settings, unused protocol and module blacklisting (modprobe blocklist), and AppArmor confinement for Nginx and Tor to limit post-exploit impact.
+- Incorporated a strong chain of trust: a signed Tor mirror statement, mirrored public GPG keys, and SHA-512 checksum proofs—all implemented across DNS TXT records and a [GitHub mirror](https://smithbarlow.xyz/smithbarlow.gpg).
+
+### Verification
+
+```
+dig smithbarlow.xyz ANY +noall +answer +authority +additional +dnssec
+curl -vkI https://smithbarlow.xyz
+```
 
 ## Events
 __Summer Cyber Tech Track__\
@@ -24,7 +39,7 @@ __*Ken Garff Esports*__\
 *July 2025*
 -  Participated in the CyberPatriot Windows and Linux security competitions, identifying and fixing security vulnerabilities.
 - Learned Linux fundamentals such as command-line navigation, file system structure, and user permissions—including SSH hardening, network hardening (ufw), and managing malicious system services (systemctl).
-- Gained practical experience with Linux and Windows security concepts, such as: account management, patching, service auditing, basic firewall deployment, and intrusion prevention methodologies.   
+- Gained practical experience with Linux and Windows security concepts, such as: account management, patching, service auditing, basic firewall deployment, and intrusion prevention methodologies.
 
 ## Certifications
 - [CyberPatriot (AFA) - Standard AFA CyberCamp ](https://smithbarlow.xyz/CyberPatriot-Certificate-Smith-Barlow.pdf)
