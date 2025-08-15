@@ -24,7 +24,7 @@ __VPS__\
 - Obtained an [A+ SSL Labs Score](https://www.ssllabs.com/ssltest/analyze.html?d=smithbarlow.xyz), configured Let's Encrypt TLS (TLS 1.2/1.3) with strong AEAD ciphers, implemented HSTS preload, instituted DNSSEC to prevent MITM attacks, and restrictive CAA policies to prevent rogue issuance.
 - Secured Nginx with tight content security policies, method restrictions (GET/HEAD only), rate-limiting, appropriate header limits, and privacy-respecting security headers.
 - Deployed kernel-level security via extensive sysctl settings, unused protocol and module blacklisting (modprobe blocklist), and AppArmor confinement for Nginx and Tor to limit post-exploit impact.
-- Incorporated a strong chain of trust: a signed Tor mirror statement, mirrored public GPG keys, and SHA-512 checksum proofs—all implemented across DNS TXT records and a [GitHub mirror](https://smithbarlow.xyz/smithbarlow.gpg).
+- Incorporated a strong chain of trust: a signed Tor mirror statement, mirrored public GPG keys, and SHA-512 checksum proofs—all implemented across DNS TXT records and a [GitHub mirror](https://github.com/smithbarlow/smithbarlow.gpg).
 
 ### Verification
 
