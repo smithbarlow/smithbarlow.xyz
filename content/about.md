@@ -15,7 +15,7 @@ __Homelab__\
 - Deployed and configured OPNsense as the main router and firewall, setting up VLANs, appropriate subnets, DHCP, and firewall rules to segment and secure homelab traffic.
 - Utilized Proxmox to host virtual machines for labs and services, learning virtualization, resource allocation, and snapshot management—accomplished utilizing LXC containers and KVM virtual machines.
 - Created a SOC lab environment using Kali Linux for vulnerability assessment, a Windows target for exploitation, and the Wazuh stack for real-time detection and prevention.
-- Configured OPNsense firewalling with strict baselines—ensure intervlan traffic is strict and within scope.
+- Configured OPNsense firewalling with strict baselines—ensuring intervlan traffic is strict and within scope.
 - Utilized Wireguard to secure sensitive traffic from self-hosted services to VPS proxy—terminated with TLS 1.2/1.3 certificates.
 
 __VPS__\
@@ -44,7 +44,7 @@ Write Up: https://github.com/smithbarlow/Home-Lab
 __Summer Cyber Tech Track__\
 __*Ken Garff Esports*__\
 *July 2025*
--  Participated in the CyberPatriot Windows and Linux security competitions, identifying and fixing security vulnerabilities.
+- Participated in the CyberPatriot Windows and Linux security competitions, identifying and fixing security vulnerabilities.
 - Learned Linux fundamentals such as command-line navigation, file system structure, and user permissions—including SSH hardening, network hardening (ufw), and managing malicious system services (systemctl).
 - Gained practical experience with Linux and Windows security concepts, such as: account management, patching, service auditing, basic firewall deployment, and intrusion prevention methodologies.
 
