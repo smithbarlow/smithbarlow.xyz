@@ -34,7 +34,7 @@ Clearnet: curl -vkI https://smithbarlow.xyz
 Tor Mirror: curl -vkI http://v55dqkmukq7hl6hty5sn6wlbcfn6ldadxt3h4wuynb2dyonpu5hrcmyd.onion
 
 # DNS
-dig smithbarlow.xyz ANY +noall +answer +authority +additional +dnssec
+dig @9.9.9.9 smithbarlow.xyz any +dnssec
 
 # Documentation
 Write Up: https://github.com/smithbarlow/Home-Lab
